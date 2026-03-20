@@ -10,7 +10,7 @@ from openpyxl import Workbook, load_workbook
 
 
 # ========================= CONFIG =========================
-TOKEN = os.getenv("DISCORD_BOT_TOKEN", "MTQ3MDc4MjMwOTgzNzA0NTk1Nw.GwP3rc.zWj8FhRJ9bqgYj80vkWFglcGuWN29aydWKdxg8")
+TOKEN = os.getenv("DISCORD_BOT_TOKEN", "MTQ3MDc4MjMwOTgzNzA0NTk1Nw.Gicj-Y.tp0uVWrOfyorVTL5SCK0ylOEOubzczm0uMjfO4")
 ALLOWED_ROLE_IDS = {
     1390977162198384686,
     1390977162198384685,
